@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body style=background-color:powderblue;>
+<h1>Welcome to Thoughtful </h1>
+<h3>This site will help keep your head clear as you get through the day.</h3>
+
+</p></p>
+</p>Enter a task: </p>
+<!-- JavaScript box goes here--->
+<p>Your task is: </p> <!-- Task will be displayed here--->
+<><>
+
+
+
+</body>
+</html>
