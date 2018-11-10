@@ -10,7 +10,19 @@
 <p>Your task is: </p> <!-- Task will be displayed here--->
 <><>
 
-
+Will have: mood bar, calendar, welcome page
+Mood bar
+  Changes background color to reflect how you feel
+Calendar
+  tasks with older dates have bigger fonts
+  tasks will be clickable
+  linked to google drive?
+  basic tasks like eat, bathe, 
+  possibly connect to google home
+  can be set up for the next day
+  
+Welcome page
+  links to certain pages
 
 </body>
 </html>
