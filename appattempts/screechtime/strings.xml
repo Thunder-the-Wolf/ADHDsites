@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskAlarm</string>
+    <string name="insert_task">Insert task here</string>
+    <string name="done_button_text">Done</string>
+    <string name="add_task">Add Task</string>
+    <string name="add_item">Add Item</string>
+    <string name="complete">Complete</string>
+</resources>
